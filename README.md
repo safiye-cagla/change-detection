@@ -22,3 +22,6 @@ git clone https://github.com/safiye-cagla/satellite-change-detection.git
 📌 Eğitim ve test için kullanılan veri seti aşağıdaki bağlantıdan elde edilmiştir;
 "https://www.kaggle.com/code/sakifalam/change-detection-epoch-100/input"
 
+🌟 Projede yapay zeka entegre edilen yöntem kullanıldığında öncesi-sonrası uydu görüntüleri ve kontrol maskeleri ile model eğitilmektedir. Ardından yeni öncesi-sonrası görüntüler yüklenerek değişim analizi yapılabilmektedir.
+
+📌 Dosya yapıları incelendiğinde de görüleceği üzere bu aşamada kullanılabilecek örnek öncesi uydu görüntüleri "pre" klasöründe; sonrası uydu görüntüleri "post" klasöründe; ve kontrol maskeleri "mask" klasöründe toplanmıştır.
